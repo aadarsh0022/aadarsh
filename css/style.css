@@ -149,11 +149,13 @@ textarea {
   .btn:hover {
     transform: translateY(-3px); }
   .btn--bg {
-    padding: 1.5rem 8rem;
-    font-size: 2rem; }
+    padding: 1.5rem 4rem;
+    font-size: 1.5rem;
+  margin-left: 1rem; }
   .btn--med {
-    padding: 1.5rem 5rem;
-    font-size: 1.6rem; }
+    padding: 1.5rem 3rem;
+    font-size: 1.5rem;
+  margin-left: 1rem; }
   .btn--theme {
     background: #0062b9;
     color: #fff; }
@@ -163,6 +165,7 @@ textarea {
     border: 2px solid #0062b9;
     box-shadow: none;
     padding: calc(1.5rem - 2px) calc(5rem - 2px); }
+    
 
 .sec-pad {
   padding: 12rem 0; }
